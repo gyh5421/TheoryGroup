@@ -4,6 +4,7 @@
 小组管理规定：[链接](https://github.com/OUCTheoryGroup/TheoryGroup/blob/master/GroupRules.md)
 
 目前TheoryGroup分为四个小组：
+
 组长|组员  
 -|-
 高峰 | 高云浩、 张珊、吕越、杨冰冰、王会金，高琰、曲晓帆、赵政达 
