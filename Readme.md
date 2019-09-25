@@ -3,7 +3,7 @@
 
 小组管理规定：[链接](https://github.com/OUCTheoryGroup/TheoryGroup/blob/master/GroupRules.md)
 
-目前TheoryGroup分为四个小组：
+TheoryGroup由董老师统一领导，分为四个兴趣小组：
 
 |方向|组长|组员|  
 |-|-|-|
@@ -13,6 +13,9 @@
 |纹理、风格迁移|高颖|Sadia、Israel、赵其鲁、刘瑾萱、吕炎、张天戈|
 
 
+根据项目任务及大家的兴趣，人员实时动态调整。
+
+从10月第一次组会开始，**以组为单位进行工作汇报**，可以由组长确定汇报人选以及汇报内容，坚持做到“汇报内容全部是干货”。
 
 
 
