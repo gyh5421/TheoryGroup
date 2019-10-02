@@ -3,10 +3,10 @@
 # OUC Theory Group 
   
 
-|小组管理规定|服务器使用方法|
+|[小组管理规定](https://github.com/OUCTheoryGroup/TheoryGroup/blob/master/GroupRules.md)|[服务器使用方法](https://github.com/OUCTheoryGroup/TheoryGroup/blob/master/ServiceGuide.md)|
 |:-:|:-:|
 
-小组管理规定：[链接](https://github.com/OUCTheoryGroup/TheoryGroup/blob/master/GroupRules.md)
+
 
 经过讨论，现在对于小组一些工作进行如下改动：
 
