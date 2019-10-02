@@ -1,4 +1,4 @@
-==**For theory and texture group only.**==
+==**For OUC theory group only.**==
 
 为增加查阅体验与防止后续服务器内容的更改，请直接在github观看 https://github.com/OUCvisionLab/ServerGuide
 
