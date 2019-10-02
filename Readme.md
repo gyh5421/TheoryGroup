@@ -1,6 +1,9 @@
 
 
 # OUC Theory Group 
+  
+|-|-|
+|小组管理规定|服务器使用方法|
 
 小组管理规定：[链接](https://github.com/OUCTheoryGroup/TheoryGroup/blob/master/GroupRules.md)
 
