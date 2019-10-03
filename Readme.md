@@ -3,8 +3,8 @@
 ## OUC Theory Group 
   
 
-|[小组管理规定](https://github.com/OUCTheoryGroup/TheoryGroup/blob/master/GroupRules.md)|[服务器使用方法](https://github.com/OUCTheoryGroup/TheoryGroup/blob/master/ServiceGuide.md)|
-|:-:|:-:|
+|[小组管理规定](https://github.com/OUCTheoryGroup/TheoryGroup/blob/master/GroupRules.md)|[服务器使用方法](https://github.com/OUCTheoryGroup/TheoryGroup/blob/master/ServiceGuide.md)|[如何选论文及读论文](https://github.com/OUCTheoryGroup/TheoryGroup/blob/master/PaperReading.md)
+|:-:|:-:|:-:|
 
 **2019年10月2日**
 
