@@ -8,9 +8,9 @@
 |[小组管理规定](https://github.com/OUCTheoryGroup/TheoryGroup/blob/master/GroupRules.md)|[服务器使用方法](https://github.com/OUCTheoryGroup/TheoryGroup/blob/master/ServiceGuide.md)|[如何选论文及读论文](https://github.com/OUCTheoryGroup/TheoryGroup/blob/master/PaperReading.md)
 |:-:|:-:|:-:|
 
-**2019年10月2日**
+**2019年10月8日  纪要**
 
-经过和同学们的交流，计划对小组组会进行如下改动， 每周两次会，周二上午一次工作汇报，周四晚上一次Paper Club
+经过和同学们的交流，计划对小组组会进行如下改动， 每周两次会，周二上午一次工作汇报，周四晚上一次Paper Club，我们会**持续改进**，大家可以随时提建议，发现不足，及时调整。
 
 ### 1. 每周二上午工作汇报
 
